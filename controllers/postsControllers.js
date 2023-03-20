@@ -6,7 +6,7 @@ import asyncHandler from "express-async-handler";
 export const createPost = asyncHandler(async (req, res) => {
   const { userId, description, picturePath } = req.body;
 
-  const checkFields = [userId, description, picturePath].every(Boolean);
+  const checkFields = [userId, description].every(Boolean);
 
   if (!checkFields) {
     res

@@ -4815,3 +4815,15 @@
 200323	10:27:15	d1993e6d-d9a7-457b-831c-f237146156c6	GET, , /posts, /posts
 200323	10:27:16	1792cb71-f16f-4ae7-bb31-95b1130bf1b5	GET, , /users, /users
 200323	10:27:17	fb851f74-6251-482c-9a2d-70833ca895fb	GET, , /users, /users
+200323	10:39:48	272ce866-2e5b-4e36-a795-1d06be8e8de9	GET, , /posts, /posts
+200323	10:40:02	2d953ece-d3b9-43ba-a024-9d0eb0bbd0cd	GET, , /posts, /posts
+200323	10:40:02	1dbd6207-cd4b-4838-92b8-955e18f4a50a	GET, , /users, /users
+200323	10:40:19	7009bf61-a0ea-48c0-a994-03487e25220d	POST, , /auth/register, /auth/register
+200323	10:40:27	a80480d9-6388-4343-a768-486e03c0ace7	POST, , /auth/login, /auth/login
+200323	10:40:27	e9bb0f0e-9de3-41b4-be4e-b26e1a507513	GET, , /posts, /posts
+200323	10:40:27	9e5ee1c0-ef71-4995-989c-9ff25b374431	GET, , /users, /users
+200323	10:40:38	e91c54a9-494b-4bad-9c8f-59613a8fbb18	POST, , /posts/createPost, /posts/createPost
+200323	10:40:39	b61d9ea9-e8d3-4661-a744-5cd1174b4230	GET, , /posts, /posts
+200323	10:40:42	1735829f-2291-437f-add8-44be8eb872a4	GET, , /users, /users
+200323	10:40:54	d561c257-1bed-49e7-8dc4-4d99de495a09	GET, , /posts, /posts
+200323	10:40:57	6950483b-4b8d-4fad-bf8f-7c1758a9b942	GET, , /users, /users
