@@ -11,7 +11,7 @@ import { verifyToken } from "../middleware/verifyToken.js";
 const router = express.Router();
 
 /* READ */
-router.route("/").get(getFeedPosts).post(createPost);
+router.route("/").get(getFeedPosts);
 
 router.post("/:postId", verifyToken, newComment);
 

@@ -11,7 +11,6 @@ export const verifyToken = (req, res, next) => {
 
   // Check if token is valid
   const valid = jwt.verify(token, process.env.JWT_SECRET_KEY);
-  // console.log(valid);
   req.user = valid;
   next();
 };

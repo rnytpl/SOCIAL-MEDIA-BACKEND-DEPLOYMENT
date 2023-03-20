@@ -6,6 +6,15 @@ import asyncHandler from "express-async-handler";
 export const createPost = asyncHandler(async (req, res) => {
   const { userId, description, picturePath } = req.body;
 
+  const checkFields = [userId, description, picturePath].every(Boolean);
+
+  if (!checkFields) {
+    res
+      .status(400)
+      .json({ message: "Please provide information for all fields" });
+    throw new Error("Missing information");
+  }
+
   const findUser = await User.findById(userId);
 
   if (!findUser) {
