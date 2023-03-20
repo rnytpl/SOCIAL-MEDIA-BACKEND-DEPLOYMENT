@@ -1,0 +1,433 @@
+260223	10:47:46	20484546-bc93-42a9-8035-989603df8238	Error, undefined, Invalid credentials
+270223	02:07:40	c40ad640-d325-4133-82b7-5e1efa8977f0	Error, undefined, Invalid credentials
+270223	02:08:01	dcf11309-ccf2-4fbd-a169-fc79ac589144	Error, undefined, Invalid credentials
+270223	02:08:40	64b86c7b-9a18-48e4-8a10-1c399f424118	Error, undefined, Invalid credentials
+270223	09:17:52	d0053a63-a015-4ac6-a992-b298e8400dc7	MongooseError, undefined, Operation `users.findOne()` buffering timed out after 10000ms
+270223	10:38:06	4685d114-f526-45aa-aa55-f472fe118638	Error, undefined, User not found
+270223	10:39:14	b7a86206-4a10-48b1-be73-b0e8ff93d5c1	Error, undefined, Duplicate User
+270223	10:41:27	0feb7f9e-1422-46c0-ab0f-b963eded299e	Error, undefined, Duplicate User
+270223	10:41:42	a116c12a-0bd2-491b-bf84-815ce034948f	Error, undefined, User not found
+270223	11:57:32	66c94a28-5dc2-48c8-90d7-3ce8940e857c	Error, undefined, Invalid credentials
+270223	11:59:49	2a809663-8356-43dd-bc2c-e8763b75bc45	Error, undefined, Invalid credentials
+280223	12:01:09	f34dae11-3fd3-4eb6-972b-512984b76444	Error, undefined, Invalid credentials
+280223	12:01:58	5a45aea4-8651-4743-8c0b-0a852631bc08	Error, undefined, Invalid credentials
+280223	12:02:32	a075e790-44eb-4b6d-a9cd-a5420bddbd4a	Error, undefined, Invalid credentials
+280223	12:03:15	fd0a883c-65f5-40b0-81fb-c4c6125f4580	Error, undefined, Invalid credentials
+280223	12:04:13	61cf6b6e-b955-4bd3-80a5-ef6117a1c2f3	Error, undefined, Invalid credentials
+280223	12:05:21	26b76968-ad41-43ef-9a34-cbb445d5d318	Error, undefined, Invalid credentials
+280223	12:06:12	1a2a2cd4-1348-4af6-b50c-762e9ef6738c	Error, undefined, Invalid credentials
+280223	12:06:30	0032a040-bf10-463e-851d-e988a1567457	Error, undefined, Invalid credentials
+280223	12:07:06	35031736-923c-407f-9bc4-ef7e6501acf8	Error, undefined, Invalid credentials
+280223	12:07:46	1c2800af-115c-4777-a893-a7a95ce8ed19	Error, undefined, Invalid credentials
+280223	12:09:33	3bc8ed97-f107-4423-9ff7-3f98d65cb750	Error, undefined, Invalid credentials
+280223	12:10:53	dc90a97e-860b-466d-8066-f5b73594fce6	Error, undefined, Invalid credentials
+280223	12:11:29	93c43db8-345b-4195-a9f2-b989b72fa380	Error, undefined, Invalid credentials
+280223	12:12:09	41526626-eea5-4384-b8ea-846d7faa7490	Error, undefined, Invalid credentials
+280223	12:12:13	83d5141d-4ea6-43dc-a767-730f3e359ca4	Error, undefined, Invalid credentials
+280223	12:12:54	ef45f75a-23b3-4c43-b376-8f35ccef3fee	Error, undefined, Invalid credentials
+280223	12:13:32	a9433390-f596-4604-82e3-bfd787245550	Error, undefined, Invalid credentials
+280223	12:15:56	4d4d139c-88a8-437e-8a5a-97dc24411346	Error, undefined, Invalid credentials
+280223	12:16:09	aefb8c76-3566-4f32-bf1e-e4077f982fba	Error, undefined, Invalid credentials
+280223	12:17:23	d68fa8e1-d960-46a6-b900-60457db0b3a4	Error, undefined, Invalid credentials
+280223	12:17:37	ea3881e6-2aa7-468f-abe5-3454937d5de4	Error, undefined, Invalid credentials
+280223	12:18:17	2cba9d2a-5cfb-4bca-8f90-8a71fbed1439	Error, undefined, User not found
+280223	12:20:32	4b38cba4-cf5f-463b-83a7-ea1d603221e0	Error, undefined, User not found
+280223	12:21:03	6eb523a5-790f-4493-813b-0b890be9e1cf	Error, undefined, User not found
+280223	12:21:30	659a382f-91db-43c2-a4b5-00a42374ab45	Error, undefined, User not found
+280223	12:21:56	bac625f3-70b7-44a8-bd3a-e13e47a2f176	Error, undefined, User not found
+280223	12:22:00	252cff6d-009e-4a9b-9a9b-f2e31d6798f0	Error, undefined, User not found
+280223	12:22:31	dfd23895-2f0b-45ca-a099-c026782d4953	Error, undefined, User not found
+280223	12:24:37	e4141855-87cd-4f4d-9263-189859b1a53a	Error, undefined, User not found
+280223	12:25:08	8bd91b04-c607-4dfd-91b2-70aa5194b7e8	Error, undefined, User not found
+280223	12:25:15	9307c7d9-8456-428b-a8f5-60ef2dcf6991	Error, undefined, User not found
+280223	12:28:21	132c1be5-d3a9-4846-a220-bc182c2c5659	Error, undefined, User not found
+280223	12:28:48	68853715-f6d6-4439-8785-0b3d400a1afe	Error, undefined, User not found
+280223	12:30:30	f1e0255e-5230-4ea1-a24a-4cf6e14d24d1	Error, undefined, User not found
+280223	12:30:49	cb63996c-66e8-483e-b32e-e59e2f1d08d2	Error, undefined, User not found
+280223	12:32:33	d964feb0-3d94-49a5-929f-a069c3e1b9e0	Error, undefined, User not found
+280223	12:32:39	d5ebbaea-1a6a-400e-a755-e19fe2451811	Error, undefined, User not found
+280223	12:34:03	8555b984-0c61-4a0c-af34-e20384f00dac	Error, undefined, User not found
+280223	12:34:32	fa1d937b-30d2-43da-9de9-97131ad3429e	Error, undefined, User not found
+280223	12:35:59	bad5683d-879a-49f9-8b4c-b935d5ad3867	Error, undefined, Invalid credentials
+280223	12:37:47	c7b9995b-391f-460e-ab63-edfd5261a29e	Error, undefined, Invalid credentials
+280223	12:39:40	60152bef-5864-4475-bd8d-a09afe80ff84	Error, undefined, Invalid credentials
+280223	12:40:03	a0972312-8952-4669-9f38-5f5def86b697	Error, undefined, Invalid credentials
+280223	12:41:32	4b78e008-b1d0-452a-a158-e462a95a22d1	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	12:44:54	077dc5ec-0a8c-4f11-b57b-d9f78ec4c76f	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	12:45:18	66265d83-53ac-4931-aece-8af0fed0e088	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	12:46:03	72526a2a-ba2a-473f-bf33-850c52ad35d3	MongooseError, undefined, Operation `users.findOne()` buffering timed out after 10000ms
+280223	12:47:48	f48e5809-9201-4f60-b184-657e9ba30922	Error, undefined, User not found
+280223	12:48:29	a77377a9-915c-4825-9905-ac2d825195af	Error, undefined, User not found
+280223	12:48:47	d930ebc7-1ed6-471e-9f8e-38fa9ebd5211	Error, undefined, User not found
+280223	12:48:52	28c45a49-1e53-4594-ac76-30940a9b0bd8	Error, undefined, User not found
+280223	12:49:03	71748c89-a608-4a19-8d66-7fa7f8e342a5	Error, undefined, User not found
+280223	12:50:34	72932f82-f184-4057-a168-8d72b988b45a	Error, undefined, User not found
+280223	12:52:43	1eb0fc50-3523-40c5-aa7d-32a02aa4103e	Error, undefined, User not found
+280223	12:53:05	1831ee83-fe85-43f8-a260-7f5d6d09ed56	Error, undefined, User not found
+280223	12:54:12	d3a7118b-d1ec-4beb-bfee-504f68a4fdc2	Error, undefined, User not found
+280223	12:55:12	222a1c63-6030-4342-9ed2-796f3539ad6e	Error, undefined, User not found
+280223	12:55:23	74e67ba7-fc5b-428b-aabc-d4916bca1b35	Error, undefined, User not found
+280223	12:56:37	0c90345f-09f4-45c6-9cb8-00f27368879a	Error, undefined, User not found
+280223	01:00:28	ff9502ae-122d-407a-8f1a-b32b7fca44a8	Error, undefined, User not found
+280223	01:01:04	7c94af76-ee7b-40c8-aafa-2b1c92eb6ab7	Error, undefined, User not found
+280223	01:01:31	177d74a6-d478-43f7-be74-119cd597b567	Error, undefined, User not found
+280223	01:02:17	7dc6cff1-4c62-45fa-8572-595f62c4d042	Error, undefined, User not found
+280223	01:02:34	469008e0-63ed-4116-8a5f-f18ff31363f0	Error, undefined, User not found
+280223	01:02:34	cac2fc22-8139-4c0c-8344-15723497f245	Error, undefined, User not found
+280223	01:03:11	8319cecf-5086-4156-a4f4-70c52a9d5d5a	Error, undefined, User not found
+280223	01:03:33	7a079b16-6707-4a48-bab3-01f4e55bdba7	Error, undefined, User not found
+280223	01:05:53	25639b77-4de9-4605-9f35-1309f03f3e99	Error, undefined, User not found
+280223	01:06:43	43711c07-edbf-40cd-ae46-07e88879f1bc	Error, undefined, User not found
+280223	01:07:17	e84e6a4c-27b5-48c0-a888-81a9ef9c39b9	Error, undefined, User not found
+280223	01:08:40	d6329561-d60d-486a-b84f-49096960d858	Error, undefined, User not found
+280223	01:10:15	5f2b21e4-04a1-4147-8a22-e3aca0ca9f8e	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	01:10:42	4c3fbcaf-a11f-4b2b-a804-bfcbcaf7a501	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	01:11:21	1e8ded20-a4d5-40d5-8609-4c589b6ec386	Error, undefined, User not found
+280223	01:32:28	dab1181e-115a-4f6e-8938-54cd1fa2db03	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	01:33:20	ae9443fb-6694-450c-884b-7a516d9681ea	MongooseServerSelectionError, undefined, Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+280223	05:59:58	67f14b4a-68db-407f-a76f-0e509d681bac	Error, undefined, Duplicate User
+280223	05:59:59	905406a0-0442-4a4e-b4f3-f47dac6bf143	Error, undefined, Duplicate User
+280223	06:00:04	25add4e7-a4f0-4ea1-8965-0470935e9237	Error, undefined, Duplicate User
+280223	06:00:07	f5b9b4c9-9d88-40ce-bfc7-b1ac7b7ceb1b	Error, undefined, Duplicate User
+280223	06:05:54	3210b269-6c51-4705-a041-e0170d46fb79	MongoServerError, 11000, E11000 duplicate key error collection: SOCIAL-MEDIA-APP.users index: email_1 dup key: { email: "rnytpl@gmail.com" }
+280223	06:07:25	8b2a7ed5-bb39-43e6-83b5-4636e1423468	MongoServerError, 11000, E11000 duplicate key error collection: SOCIAL-MEDIA-APP.users index: email_1 dup key: { email: "rnytpl@gmail.com" }
+280223	06:07:53	7948b9aa-38d2-4529-8a3b-02f2c5d5bcf2	Error, undefined, Duplicate User
+280223	06:11:00	6789131e-998f-432b-ba2f-f01e897a628a	Error, undefined, Duplicate User
+280223	06:12:27	3e2c92d9-36a7-4f42-9629-2c59d7207bd2	Error, undefined, Duplicate User
+280223	06:12:29	6d85bed4-2c73-414f-948b-09fe5fa1071a	Error, undefined, Duplicate User
+280223	06:12:30	3d12193f-6db1-4441-83ef-15b601704156	Error, undefined, Duplicate User
+280223	07:23:40	7e62adc3-504f-42c5-aac8-766902e155ef	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ { path: 'foto.jpg' } ]" (type Array) at path "picturePath"
+280223	07:25:20	2e9847f1-e80d-4011-8499-6ba0dc271ba8	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ { path: 'foto.jpg' } ]" (type Array) at path "picturePath"
+280223	07:25:22	5f95e1a9-6400-46e2-8fdd-e1369bf0116d	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ { path: 'foto.jpg' } ]" (type Array) at path "picturePath"
+280223	07:25:54	c3dcb0bd-9109-4114-8aca-140da98c7fe0	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ { path: 'foto.jpg' } ]" (type Array) at path "picturePath"
+280223	07:28:22	842f6674-8bae-4af6-a8fc-b30744822d96	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ { path: 'foto.jpg' } ]" (type Array) at path "picturePath"
+280223	08:29:38	b76d8975-0881-4a95-b423-692cf5d44f4e	Error, undefined, Fill all fields
+280223	08:30:15	884ba9cb-7a85-4e64-9c59-f1f478e731b6	Error, undefined, Fill all fields
+280223	08:31:54	41b1eb22-9f06-4c39-8139-1ecfb4ba332f	Error, undefined, Fill all fields
+280223	08:34:31	0c12eb0c-8c61-4d17-9506-3450c47f9d5b	Error, undefined, Fill all fields
+280223	08:36:05	5b2aa0ad-8a66-474e-b9f9-3f24741528d5	Error, undefined, Fill all fields
+280223	08:39:32	84ead11b-4168-4559-978d-893d0fa39c4d	ReferenceError, undefined, s is not defined
+280223	08:40:33	a9976d0a-1e17-4557-b963-60ccc0d8666a	Error, undefined, Fill all fields
+280223	08:45:27	4645fe0b-0403-48f1-80c3-3e3e2004b61f	Error, undefined, Fill all fields
+010323	12:01:00	0cda3411-9a1d-4993-bfd2-3a4f6a16ea4b	Error, undefined, Duplicate User
+010323	12:01:47	afbade80-6681-4d8b-9a42-8f8069bd53bd	Error, undefined, Duplicate User
+010323	01:49:46	6e39cea2-379d-4e6e-a47a-4db2e3f9595d	JsonWebTokenError, undefined, invalid signature
+010323	01:50:06	6fd0ab10-310d-4111-99c0-784f01e4fde6	JsonWebTokenError, undefined, invalid signature
+010323	01:50:18	c28e2b30-981e-4c61-82a3-6c216c1c4c10	JsonWebTokenError, undefined, invalid signature
+010323	01:50:59	d4f1c670-b500-4af9-b2d3-0cb30ed3d713	Error, undefined, Unauthorized, invalid token
+010323	03:32:49	04039880-f603-41c6-9029-8920abcb1fd8	Error, undefined, Invalid credentials
+010323	05:13:29	51e7d0e7-6ed1-4432-8d11-b7b237b5ec94	Error, undefined, Invalid credentials
+010323	05:13:32	759a9773-9468-4ce3-a311-bf6a56cee597	Error, undefined, Invalid credentials
+010323	10:56:36	675be37c-98bb-495b-a877-77e0723fddeb	Error, undefined, Duplicate User
+020323	12:51:11	60ae6037-50eb-4962-bf78-55eeefca770b	Error, undefined, Unauthorized, invalid token
+020323	01:58:33	8f7abd65-8e3e-40bd-8d77-ad018d272c6d	Error, undefined, Unauthorized, invalid token
+020323	01:58:59	11b03319-0f6a-483e-aec3-885bb0f54317	Error, undefined, Unauthorized, invalid token
+020323	01:59:28	0cd66a51-162e-464e-ab24-7d037d1c1831	Error, undefined, Unauthorized, invalid token
+020323	01:01:27	8e4a22b8-9b1f-47ba-8e23-dc832bf1bc96	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:02:21	9dddb995-59ee-42ee-9971-95fe0ab7c93f	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:02:39	6b0f815c-30fa-42ce-84ce-0cb172d3bc27	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:02:52	1adc43f9-25d9-47f8-9a32-35b28d94743e	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:03:07	c21d05bb-fc0d-46b5-899f-63af057cc816	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:04:05	6fff5d7a-566e-4a25-9559-7f38d912b27d	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:05:39	65961be9-fbaa-41fd-8909-e6513dcdca12	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:08:43	c9fa9b77-7ad9-48e0-a64d-186b0f373547	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:10:00	621fd3cb-97a8-4534-b5bf-78bf2a860108	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:11:35	16e05820-6f6a-44eb-98ae-17f0f2dd4f3a	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:12:11	8d142a66-f6ca-4638-8829-d2d7a0789e77	CastError, undefined, Cast to ObjectId failed for value "{ id: '63ff35d164ef2e11d02a07f9' }" (type Object) at path "_id" for model "User"
+020323	01:13:03	35473b9f-ff14-4150-a482-97ecc2ea6704	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:14:44	62e9e709-3651-4551-8b1c-0464865c86b9	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+020323	01:15:34	0075cc82-e00d-4253-9115-b6566e328ae7	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:16:55	f3d9b827-483d-475c-b496-cf122463fdf1	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:18:05	9853814f-8a42-4e51-a887-3eaae6e67e98	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:18:54	9457bc6c-a148-4fad-b66d-aec801cc0b40	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:19:07	f2bbdbba-88ea-4532-b4aa-13107d0f91d4	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:21:38	29711cb5-5e20-4b71-96cc-8f06885fd1ec	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:21:54	d2f34f30-f9ac-4d3d-a670-1a6acd68bdb0	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:22:24	53dcd602-6c70-4d8c-a24d-3d3b1cea4579	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:24:02	637b89d9-1615-49b2-b730-fed59bd3b51b	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:24:54	a4c6bd66-7711-49ed-9116-a89372b74b0a	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:25:53	1a7bbe1f-18da-4500-8a41-48db89ae5447	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:28:06	dd5dec9d-100d-4ae4-90a0-d0c55552015c	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:41:19	328a49a6-d3a0-47e0-8c2d-58437cec6b5b	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:42:22	0f5e9807-7045-431d-b6b5-d845955b50e1	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:43:32	4dca4942-c73e-4b8c-b07f-a221569940a6	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:48:59	c6266f30-c9c6-4d28-84c8-8aeabe0f0a29	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:51:44	8ddb9469-bc38-4780-8ac7-249cd1c1e264	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:52:36	7c2609a9-b69d-480f-89b1-4a65bed2d98d	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:52:42	e5e187de-5312-4c79-bb8d-ffcb93ee2920	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:52:42	e689d436-7274-4848-ac86-ebcb781819c7	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:53:40	eaa91e37-061e-4f24-8ae9-72da646e7a7e	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:55:06	5d31f4b3-5f24-4e21-9615-0b7f543cd6ee	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:55:35	11e96ab5-6bb2-4e93-a067-c3470a9d7eb2	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:55:58	c8e5f18f-441b-4e2c-b220-e85c7f3ac907	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:55:58	42a05279-efd9-473b-9b89-6ed0d1094be7	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:57:43	f98809ee-dc3c-4d0b-a9ac-c85538dd9c26	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:58:21	0bfaa7d9-622d-47f0-9a98-0974305a61ea	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	01:58:52	112f0e64-b1ef-46a0-b86e-5cbbeb8d8c5a	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	03:05:42	332e04cf-1425-4c2b-beca-6c4609d8128d	Error, undefined, Invalid credentials
+020323	04:21:07	3a918bc8-20c5-4ba3-b31d-9f641e775248	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	04:22:16	8090c850-a763-4679-a29a-d73b0afbfb83	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	04:23:21	72bc72fc-c406-4df5-b15e-4138fe9c8d6c	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	04:24:14	51a26d1a-9ce3-410a-9f11-63e249177ff6	MongoServerError, 40352, FieldPath cannot be constructed with empty string
+020323	04:39:31	0ca7d939-d2e4-4c91-b83c-12b57c8f1e87	Error, undefined, Unauthorized, invalid token
+020323	04:39:51	b72b0601-b2f9-4bd0-95a1-b1535828b2af	Error, undefined, Unauthorized, invalid token
+020323	04:42:03	3ee79386-7654-4e88-b790-51bac9dd3acf	Error, undefined, Unauthorized, invalid token
+020323	04:42:47	0c3d47fa-d15d-4da9-a994-b2c93a133f97	Error, undefined, Unauthorized, invalid token
+020323	04:43:30	b3a7ad0c-c436-4cb6-a33a-991af09b2e26	Error, undefined, Unauthorized, invalid token
+020323	04:43:47	77e17844-fa0e-4035-935a-81f7bd2d2890	Error, undefined, Unauthorized, invalid token
+020323	04:44:37	f543c95b-0468-4b51-8781-19d56d324a2e	Error, undefined, Unauthorized, invalid token
+020323	04:45:22	0500e013-9e4e-435a-a1dc-1140aec515b8	Error, undefined, Unauthorized, invalid token
+020323	04:45:51	a17c10ee-a5a4-4726-871d-471170345c28	Error, undefined, Unauthorized, invalid token
+020323	04:46:20	7214b393-6f0a-4046-bb61-31d2703e4f7c	Error, undefined, Unauthorized, invalid token
+020323	04:48:43	006bc025-b1dc-448b-a7ba-5b817d45fcfd	Error, undefined, Unauthorized, invalid token
+020323	04:54:05	a8773711-49f8-4ad8-a6be-b52822d694b7	Error, undefined, Unauthorized, invalid token
+020323	04:55:34	4a77ef78-2dea-4e46-a5c9-786fc1610e48	Error, undefined, Unauthorized, invalid token
+020323	04:55:36	a5d9d275-2e19-4bfb-b10c-0f944c70fb67	Error, undefined, Unauthorized, invalid token
+020323	04:55:58	c84bff92-a803-43c0-a1d3-00b3ede6e30d	JsonWebTokenError, undefined, jwt malformed
+020323	04:57:41	525449b8-94c5-4abc-af7a-eba6e2d00ab8	JsonWebTokenError, undefined, jwt malformed
+020323	04:57:45	cb7a28e8-d26f-4845-9ecf-d6667919d91f	JsonWebTokenError, undefined, jwt malformed
+020323	04:57:58	79a783df-79a5-468c-b425-dd9b4380e134	JsonWebTokenError, undefined, jwt malformed
+020323	04:59:04	43b1a707-23cc-4181-b644-de535eecd826	JsonWebTokenError, undefined, jwt malformed
+020323	05:00:00	c427e9e9-5b5b-4deb-b38e-cf8e5d401e53	Error, undefined, Unauthorized, invalid token
+020323	05:00:46	eea77509-f934-48e9-aef1-b071a6d812b8	Error, undefined, Unauthorized, invalid token
+020323	05:00:58	1e3701bc-5f69-40c1-8ab3-f6607a92b35d	Error, undefined, Unauthorized, invalid token
+020323	06:45:26	4f5919dc-e4bd-4335-a502-2fec47ba837d	Error, undefined, Unauthorized, invalid token
+020323	06:45:56	708d1254-a6a6-406d-a4be-5fc4d1d7c873	Error, undefined, Unauthorized, invalid token
+020323	06:46:39	e46696f9-2282-4691-a5f1-54a4d8844832	Error, undefined, Unauthorized, invalid token
+020323	07:32:55	843a953e-e76f-4776-afbf-b03ee913272d	Error, undefined, Unauthorized, invalid token
+020323	07:36:12	7a405593-0b6d-42a7-a040-0d6a54a0de6f	Error, undefined, Unauthorized, invalid token
+020323	08:10:32	d4b50418-37bd-472f-b70e-5946ae063f01	Error, undefined, Unauthorized, invalid token
+020323	08:10:37	7bc1d248-2a42-41cf-a1c4-0b62553c4ce4	Error, undefined, Unauthorized, invalid token
+020323	08:12:15	1519634b-5545-4ded-bbfd-1f4fcf6df310	Error, undefined, Unauthorized, invalid token
+020323	08:14:37	f4570597-4c93-4cda-9be3-e7b315fafd22	Error, undefined, Unauthorized, invalid token
+020323	08:22:23	83e0e4cc-3c7e-46bd-924b-4672ce4df2b3	Error, undefined, Unauthorized, invalid token
+020323	09:12:01	2701daaf-066a-4649-92c0-3aedeb69346f	JsonWebTokenError, undefined, jwt malformed
+020323	09:13:18	34bc2908-c7a3-4611-8fc8-0906c6078c66	JsonWebTokenError, undefined, jwt malformed
+020323	09:15:09	d308140e-948b-41c8-bfc3-c02e499879a5	JsonWebTokenError, undefined, jwt malformed
+020323	09:16:05	5e576652-9050-454b-a703-434c25dd6cc0	JsonWebTokenError, undefined, jwt malformed
+020323	09:16:40	efe05787-1080-404b-bbb4-c9c754c36865	JsonWebTokenError, undefined, jwt malformed
+020323	09:17:15	418c3e6f-5111-4ce2-a6fc-b6d586d63079	JsonWebTokenError, undefined, jwt malformed
+020323	09:18:46	d2531bb1-bc03-4fd5-a7b6-27f7b7d72619	CastError, undefined, Cast to ObjectId failed for value "63ff35d164ef2e11d02a07f9a" (type string) at path "_id" for model "User"
+020323	09:22:25	629bcf94-52ec-4f9f-b7a9-f6aca0941602	CastError, undefined, Cast to ObjectId failed for value "63ff35d164ef2e11d02a07f9a" (type string) at path "_id" for model "User"
+020323	09:22:37	bb419558-8135-4bab-8b92-e4a88a008132	CastError, undefined, Cast to ObjectId failed for value "63ff35d164ef2e11d02a07f9a" (type string) at path "_id" for model "User"
+020323	09:24:36	b2da2d18-a39c-487b-aad2-44b7c8cb50bd	CastError, undefined, Cast to ObjectId failed for value "63fe8e86565bde6d75ede812a" (type string) at path "_id" for model "User"
+020323	09:25:25	99d9e5ce-8f6f-4e4d-b962-f6635fdde102	CastError, undefined, Cast to ObjectId failed for value "63fe8e86565bde6d75ede812as" (type string) at path "_id" for model "User"
+020323	09:26:36	9a5983c1-b676-486f-ac64-84a8c5a0981f	CastError, undefined, Cast to ObjectId failed for value "63fe8e86565bde6d75ede812a" (type string) at path "_id" for model "User"
+020323	09:28:04	47fb4613-5835-454b-b93f-16477958f6fc	Error, undefined, User not found
+020323	09:32:43	dbd80d78-3e0d-497e-995a-50ffea9ad21e	Error, undefined, User not found
+020323	09:34:23	757d140e-2e82-4047-b0b2-d3056885d122	Error, undefined, User not found
+020323	09:36:53	cc35de47-f0e0-478b-b48c-4225f4e270a4	Error, undefined, User not found
+020323	09:39:32	151cf6bd-e47c-4c7d-94af-722fbfcda8f4	Error, undefined, User not found
+020323	10:32:02	ae42bd6d-6b10-4f15-9459-eaa6c4401e1f	Error, undefined, User not found
+020323	10:32:23	f149875d-8f79-4f65-a835-01547f67481f	Error, undefined, User not found
+020323	11:38:33	25939546-2d76-45f2-924c-7b502f9d2dd2	Error, undefined, User not found
+020323	11:38:52	4509c7e4-b1d0-4758-8090-6671e65999ae	Error, undefined, User not found
+020323	11:45:55	90117def-798a-4d0e-84f7-6f046bbe27f9	Error, undefined, User not found
+050323	03:59:06	9a404311-0644-464a-ba76-095eb0fec9bb	Error, undefined, Unauthorized, invalid token
+050323	04:00:41	918e9c7e-f18a-46bd-8990-0e61f3f2ceb5	Error, undefined, Unauthorized, invalid token
+050323	04:00:54	cd4fcdb4-a70f-48bc-b3a6-967172452fe2	Error, undefined, Unauthorized, invalid token
+050323	04:01:12	80425d69-65f6-4d3d-a88c-606ce01ecc04	Error, undefined, Unauthorized, invalid token
+050323	04:02:25	3152828d-1c28-4e69-98b1-1941e2ab9bbe	Error, undefined, User not found, postsControllers
+050323	04:03:15	b4976166-fe93-4659-be1a-3bdd43f802e9	Error, undefined, User not found, postsControllers
+050323	04:03:28	9d917c84-b576-47a9-824b-acf7820b7d57	Error, undefined, User not found, postsControllers
+050323	04:03:55	e9f02cf1-f444-48cd-86cd-51aab7405342	Error, undefined, User not found, postsControllers
+050323	04:06:53	fb8394eb-f0fb-4c7d-ab82-646e4bd48025	Error, undefined, User not found, postsControllers
+050323	04:09:34	df90b500-364c-49dd-bd2d-97aa5a0b59d5	Error, undefined, User not found, postsControllers
+050323	04:09:50	b365cdf2-a588-4560-a2a0-da913bff5fd6	Error, undefined, User not found, postsControllers
+050323	04:12:13	da33a440-a5c9-4a37-a399-54e871e1cd20	Error, undefined, User not found, postsControllers
+050323	04:15:51	29ccce7e-7008-4aaf-9397-eaf5100df2fa	Error, undefined, User not found, postsControllers
+050323	04:16:22	062727ef-c53b-4201-bc68-b3a5d0f1e861	Error, undefined, User not found, postsControllers
+050323	04:21:05	fa59156a-600b-4694-b03b-5bce5768dec5	Error, undefined, User not found, postsControllers
+050323	04:21:30	f488a616-aded-4b7c-a53d-b91fdb70fe94	Error, undefined, User not found, postsControllers
+050323	04:22:23	e4f0ebbc-e076-4839-915e-f90249eecb07	Error, undefined, User not found, postsControllers
+050323	04:23:17	44347f79-5e05-43d5-be10-e1f6c93e4b28	Error, undefined, User not found, postsControllers
+050323	04:23:24	9a8502df-a405-454b-abdd-4fb7292bd8ec	Error, undefined, User not found, postsControllers
+050323	04:23:54	431f7abb-08d1-469a-a3a4-bc7feb92f2c6	Error, undefined, User not found, postsControllers
+050323	04:27:18	2006ed24-300f-407f-8a3f-4a9ee23d8e6e	Error, undefined, User not found, postsControllers
+050323	04:27:25	10c0c319-7200-43eb-80ab-297875bca047	Error, undefined, User not found, postsControllers
+050323	04:27:53	b5a099c6-a54f-48e4-a5cd-80da9c1c71c0	JsonWebTokenError, undefined, jwt malformed
+050323	04:28:18	b3b72d7c-5ae2-4d7b-bb36-ecc1e22c17ea	JsonWebTokenError, undefined, jwt malformed
+050323	04:28:18	04cf24e7-6e7f-4f8e-93ea-0b465ea5e113	JsonWebTokenError, undefined, jwt malformed
+050323	04:28:59	2c297cff-c6fa-413c-9f14-ae42b6ecd493	JsonWebTokenError, undefined, jwt malformed
+050323	04:32:23	36889e17-e9ec-4753-a206-8a514d049a40	JsonWebTokenError, undefined, jwt malformed
+050323	04:33:36	27554afc-a615-4b07-8f45-e16f8aa24778	Error, undefined, User not found, postsControllers
+050323	04:34:13	256839e4-d1f3-4324-9969-977ef29f013e	Error, undefined, User not found, postsControllers
+050323	04:34:37	3b46cbe0-74a8-4579-a3bd-f5a4337cf610	Error, undefined, User not found, postsControllers
+050323	04:35:58	cf99b015-acb1-4d94-9bd7-1917db057c8f	Error, undefined, User not found, postsControllers
+050323	04:36:09	b680c693-eced-4e96-9abb-a0487ea6c1c4	Error, undefined, User not found, postsControllers
+050323	04:36:29	4fda33b3-3708-480b-b5cb-7b21f17f38ef	Error, undefined, User not found, postsControllers
+050323	04:36:56	4a77d627-dcd6-47a3-8dc9-5b403fe91349	Error, undefined, User not found, postsControllers
+050323	04:37:54	083b326c-a2fe-4bb6-b7dd-15fcebb0f889	Error, undefined, User not found, postsControllers
+050323	04:39:17	55f41d5c-23c1-49ae-90e0-e0aae9e137bd	Error, undefined, User not found, postsControllers
+050323	04:39:25	9d9f2380-f76e-42fa-a83b-246d81f53adb	Error, undefined, User not found, postsControllers
+050323	04:40:37	e23fd273-d4fd-470c-927f-1bd7fc168b24	Error, undefined, User not found, postsControllers
+050323	04:42:16	9e698014-bafc-4021-a703-b470719483a4	Error, undefined, User not found, postsControllers
+050323	04:42:20	c9d9f075-9426-4c10-843e-a95b2daab140	Error, undefined, User not found, postsControllers
+050323	04:44:00	89f6dffe-c9b7-4fab-b78e-8c8f7b3f8863	Error, undefined, User not found, postsControllers
+050323	04:44:10	b4fac011-9dc4-4872-acea-c259d91ddee1	Error, undefined, User not found, postsControllers
+050323	04:46:11	f5443594-6047-491b-bffb-09377c2edab9	Error, undefined, User not found, postsControllers
+050323	04:46:39	5631809d-bdf6-41d2-a110-d7d4614c47af	Error, undefined, User not found, postsControllers
+050323	04:49:10	4a444384-9f96-410e-9de2-34cdb643837c	Error, undefined, User not found, postsControllers
+050323	04:51:18	5dbc06de-3914-4945-ac4e-a895ef2834f1	Error, undefined, User not found, postsControllers
+050323	04:51:27	a3427c75-d1e0-4c1f-9d84-13ad5dbef9d9	Error, undefined, User not found, postsControllers
+050323	04:51:55	53f82cd5-a1dc-4a65-b10a-4949832f1c27	Error, undefined, User not found, postsControllers
+050323	04:52:36	280cfbaf-8aae-4ee9-aa8e-c7b18aec5043	Error, undefined, User not found, postsControllers
+050323	04:52:59	e42be452-8365-4af5-a536-6f036663e614	Error, undefined, User not found, postsControllers
+050323	04:54:06	41eaea69-8811-44be-9bab-a9ba38e6e978	Error, undefined, User not found, postsControllers
+050323	04:54:46	9b7b1f3a-4c83-4d2f-969a-55bf2c0d014a	Error, undefined, User not found, postsControllers
+050323	05:30:12	3db331ab-ba8f-42be-aeb8-fe51f089e49f	Error, undefined, User not found, postsControllers
+050323	05:34:54	6ed1afb7-0cd9-4cb5-9fe3-b95309cba1d5	Error, undefined, User not found, postsControllers
+050323	05:35:05	3467474d-4814-4d62-a2a2-e98af4a64a36	Error, undefined, User not found, postsControllers
+050323	05:43:52	2196acb1-c186-4412-89d3-8c9bf96a882f	Error, undefined, User not found, postsControllers
+050323	05:44:12	0cb494d7-b007-40b0-9327-8e4b95cfba8d	Error, undefined, User not found, postsControllers
+050323	05:44:44	657ebf97-b0e4-4057-98d9-fb2558d87f0c	Error, undefined, User not found, postsControllers
+050323	05:45:10	4615c525-2ae2-40e5-9fd0-4c393feb7362	Error, undefined, User not found, postsControllers
+050323	05:45:45	06e6ab7f-e0eb-4dba-848f-9a50a8b2e676	Error, undefined, User not found, postsControllers
+050323	05:52:00	99945a26-790f-403f-86e5-cde3717111e3	Error, undefined, User not found, postsControllers
+050323	11:13:05	1f2cbda2-2366-4856-8231-0c2d14dfb18d	JsonWebTokenError, undefined, jwt malformed
+050323	11:13:20	fa2912ec-5e3e-49f7-885e-a911987f5981	JsonWebTokenError, undefined, jwt malformed
+050323	11:13:33	190338e5-a036-454a-9905-665b73ff2a4a	JsonWebTokenError, undefined, jwt malformed
+050323	11:13:33	616ecb75-f730-413e-a7bc-82500d776d04	JsonWebTokenError, undefined, jwt malformed
+050323	11:13:39	d4b1e6e0-f7e1-4165-ad63-1e03334ffcd0	JsonWebTokenError, undefined, jwt malformed
+050323	11:14:33	92e8497b-c843-4e47-9cc6-73ff1872dade	JsonWebTokenError, undefined, jwt malformed
+060323	12:28:47	19a9abc8-dd9c-4f21-b48a-a4a23e221bae	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ 'tyhfg.jpg', 'tyhfg.jpg' ]" (type Array) at path "picturePath"
+060323	12:30:18	8374a59e-4572-4a43-a6e7-7e75d3a2e8a0	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "[ 'tyhfg.jpg', 'tyhfg.jpg' ]" (type Array) at path "picturePath"
+070323	01:04:40	dd305ed8-4ce6-4159-a900-b130e5d450f7	JsonWebTokenError, undefined, jwt malformed
+070323	01:08:35	452fe1a0-f0b0-4038-add5-2a6c304014bd	JsonWebTokenError, undefined, jwt malformed
+070323	01:11:10	b8fa045c-9983-47ce-ab1c-86e2b9947216	JsonWebTokenError, undefined, jwt malformed
+070323	01:15:36	2d3d4e53-d1dd-49f7-88df-1bdf9b64b119	JsonWebTokenError, undefined, jwt malformed
+070323	01:17:59	93d281ac-6430-4aeb-88bd-f4693b5102fa	JsonWebTokenError, undefined, jwt malformed
+070323	01:18:49	fef91b11-aa51-4234-8be4-965ad6cdb72c	JsonWebTokenError, undefined, jwt malformed
+070323	01:20:04	ee93f763-19a3-41e6-8a00-3f08d34ef89e	JsonWebTokenError, undefined, jwt malformed
+070323	01:21:01	e14c0420-db66-428e-815a-b7dc1d978346	JsonWebTokenError, undefined, jwt malformed
+070323	01:22:04	24a3282e-95cc-4522-a1c7-97ac453d973f	JsonWebTokenError, undefined, jwt malformed
+070323	01:23:18	2d059816-efc9-4a32-ac43-96fc5f7acf0d	JsonWebTokenError, undefined, jwt malformed
+070323	01:24:17	e995e9f3-7d65-44ef-bb24-5a04b9f3cac8	JsonWebTokenError, undefined, jwt malformed
+070323	01:26:23	9ac06545-e771-4459-bb50-fcc5cd9b0ffd	JsonWebTokenError, undefined, jwt malformed
+070323	01:32:09	cf96a8c0-b31d-4faf-bbaa-c6bb6348a76b	JsonWebTokenError, undefined, jwt malformed
+070323	01:35:19	7733b9d4-4b5c-4cdf-8cea-f93cda3a643c	JsonWebTokenError, undefined, jwt malformed
+070323	05:26:42	626424e8-d055-406c-b715-e78e3b5f36d1	JsonWebTokenError, undefined, jwt malformed
+070323	05:29:02	02033abf-af3b-4195-839c-5589f9e59158	JsonWebTokenError, undefined, jwt malformed
+070323	05:34:40	65926a8f-a13c-4cfb-b82b-a05cfe8ab52b	Error, undefined, Unauthorized, invalid token
+070323	06:25:30	f79c37d7-b936-4583-bb18-e3c97928edf6	Error, undefined, Unauthorized, invalid token
+070323	08:30:43	16162cca-a8ac-4747-b27d-32c64b0edee0	JsonWebTokenError, undefined, jwt malformed
+080323	01:14:39	41d385c0-d113-4033-ace8-8ea754e11dee	Error, undefined, Unauthorized, invalid token
+080323	01:15:38	9b48609b-679d-435a-be41-954b84537e3b	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:15:39	ae39a968-d63b-4084-8d9b-1890e9a8a8e8	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:15:40	0196451c-778f-4a47-ac4a-de06a24f4ceb	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:15:42	d3c06638-b03f-47ce-89cf-6fed6afa4c49	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:15:46	3f54bcc4-a624-488e-9b30-1b33c2717673	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:16:04	c5a475d9-7d5e-4de7-90f7-147139e7724e	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:17:02	8c05f277-b400-4193-b624-43db07602ff2	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:17:10	c40f4b5f-e489-4932-aaec-c3598f59ff22	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:18:04	67b79571-34ab-4c3d-b90a-11b61e2ab957	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:18:04	d301e835-f73c-4f4f-b837-ee39c02014ca	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:18:04	f40d966b-1105-4953-904d-2ab32fee84ce	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:18:57	6345316e-f8ba-4c41-b889-0f19dcd41530	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:19:48	ea3e4576-e56f-4163-9cf1-92f595f85dc1	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:21:35	5ae0e7c7-6a37-43d7-b3e0-6d6c93340985	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	01:22:04	36c32c01-4184-4dc2-a881-4fbaaa162997	ReferenceError, undefined, id is not defined
+080323	01:22:37	462592e0-f789-47e6-8993-a0ec346cda23	Error, undefined, Post not found
+080323	01:23:27	e6377191-3e0c-4d44-b305-fbcde19444cd	Error, undefined, Post not found
+080323	01:23:45	fa630110-8cfe-4763-968c-cd00359070df	Error, undefined, Post not found
+080323	01:26:32	1b6efad5-24ee-40c6-9668-400471065f1a	Error, undefined, Post not found
+080323	01:27:26	b29e4b02-2996-4b8f-9bdb-b741db002f38	Error, undefined, Post not found
+080323	01:31:17	98683b6e-113b-4e0c-8f09-b31f642db8a4	Error, undefined, Post not found
+080323	01:32:38	4bd82259-96e4-4b54-a18e-fedb11d18882	Error, undefined, Post not found
+080323	01:32:57	3afc5a48-7549-4653-a47e-12a743b3f1d6	Error, undefined, Post not found
+080323	01:32:59	5a2802c7-a10d-4c1b-a9e4-7bcb477c761f	Error, undefined, Post not found
+080323	01:33:00	3c2ee34a-4126-4309-9535-7c9c66c58d40	Error, undefined, Post not found
+080323	01:33:01	6e8ab67d-2d52-4940-92fd-fcf05be79122	Error, undefined, Post not found
+080323	01:36:17	d08e2bd6-1b40-474c-a1b4-953bf8a83c63	Error, undefined, Post not found
+080323	01:37:55	94635d5a-33e7-45bc-9cd8-d4964e192e01	TypeError, undefined, Mongoose maps only support string keys, got undefined
+080323	08:32:41	974c1708-d26d-4b0e-bc09-805042c0c512	Error, undefined, Fill all fields
+080323	08:33:14	925cac93-f75b-4ece-a0fc-b5cbc39b079a	Error, undefined, Fill all fields
+080323	08:34:01	abf5047b-f6b6-4d93-b402-2aaf9db18144	Error, undefined, Fill all fields
+080323	08:34:19	411ea6d6-56ad-404e-8e4d-7636aa4b693f	Error, undefined, Fill all fields
+080323	08:46:56	9209d45e-3839-4386-a2ee-34d436a2ec7b	Error, undefined, Unauthorized, invalid token
+080323	08:46:57	57a92254-623e-44d3-b9b2-14d57ea76c26	Error, undefined, Unauthorized, invalid token
+080323	09:21:45	67c3a9d7-6c5e-46d4-b657-0cb77a883b39	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+080323	09:22:01	807462d2-de4d-4b33-8193-684526c76908	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+080323	09:22:08	fb121f72-ebed-4669-92b4-98af4ac9218c	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+080323	09:23:09	9bd0167b-9769-43c1-abea-409800374c47	Error, undefined, friends.mapI is not a function
+080323	09:23:52	8420a57a-e382-4837-a3b5-12a0ef0f55f9	Error, undefined, friends.mapI is not a function
+080323	09:48:52	e7c3e9f2-d31e-4ace-bb48-5cc27687cd39	Error, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+080323	10:57:12	ddb5a935-02ed-4eaf-9a4d-a84e699cff07	Error, undefined, Duplicate User
+080323	10:59:12	6652b486-6b68-412c-874d-d23fc052843c	Error, undefined, Invalid credentials
+090323	12:38:54	3c8d3de1-0818-46ae-928f-361aee8e1de9	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:21:55	686237bd-8db7-4d71-b437-a2691a66359e	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:22:18	3c2551da-8042-4634-ba53-712c888d2fea	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:23:22	0d1a7b62-4d22-437a-af11-0e4de68bc742	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:23:23	ca2f81ad-6ff7-47bc-be03-0af165fa17ad	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:30:42	814c1da7-41c7-42aa-9207-626e25c97eb4	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:32:24	81730766-cd32-4a9a-8319-03a6e1a58e63	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:32:32	125e2edf-5b27-4061-b85a-c71e3a3cb75f	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:32:55	84bb1b50-714f-47d6-9cb1-5db24186a8ff	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:35:41	6f8f0ff1-72f1-4da3-be76-8ea0041eeab6	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:36:37	28970af2-c953-49c0-9d90-b09c477b3f56	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	01:37:02	34ea0e76-24d4-419a-bd9a-1663bdc22eb9	Error, undefined, Cannot destructure property '_id' of 'object null' as it is null.
+090323	02:00:46	9bb8afc9-979d-4ed5-b927-6a6efd7dbd26	Error, undefined, findUser.save is not a function
+090323	03:19:44	a4a580bb-7eec-4d97-b897-40b558b8cef3	JsonWebTokenError, undefined, jwt malformed
+090323	03:28:11	aaf697ad-6807-41e5-8ee2-111d1cb37d62	JsonWebTokenError, undefined, jwt malformed
+090323	03:29:19	31a1270e-e64c-46ef-b6f9-37a00a620fac	JsonWebTokenError, undefined, jwt malformed
+090323	03:30:48	520cc3f1-477a-4347-af75-181a79787afe	JsonWebTokenError, undefined, jwt malformed
+110323	10:49:38	4f186677-0108-4fb7-a497-9dbab848b717	Error, undefined, Invalid credentials
+110323	11:25:57	4c63776b-7c92-4dbc-9367-8d177f430149	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "Promise { <pending> }" (type Promise) at path "picturePath"
+110323	11:26:45	f6b1b107-d7b7-44e2-9b93-ac95cc62f972	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "Promise { <pending> }" (type Promise) at path "picturePath"
+110323	11:27:24	796c9eb6-344a-4d8a-a493-77d269701f9a	ValidationError, undefined, User validation failed: picturePath: Cast to string failed for value "Promise { <pending> }" (type Promise) at path "picturePath"
+120323	01:24:00	64c0271a-d360-4652-95d7-2edcd9cbf9da	Error, undefined, Unauthorized, invalid token
+120323	01:28:46	747d229e-7cfb-4bc6-902d-e0ec5e1d80e4	Error, undefined, Unauthorized, invalid token
+120323	01:29:14	c73356b9-17a5-4434-a3cd-7ffd7c1c71a1	ReferenceError, undefined, Comment is not defined
+120323	01:29:49	b0cddcca-2353-4221-b7f2-b6dfd38c58b8	ReferenceError, undefined, Comment is not defined
+120323	01:30:01	84fb07c9-3027-4f7a-b571-1515f26042f6	ReferenceError, undefined, Comment is not defined
+120323	01:31:21	320bdea5-e3a7-4118-97ba-f63e11a7260b	ReferenceError, undefined, Comment is not defined
+120323	03:01:12	7779f444-8b6d-41ec-9e12-a651451f30e2	Error, undefined, Unauthorized, invalid token
+120323	03:01:15	c0fbc979-1a37-4a3c-94d3-8ae985a17627	Error, undefined, Unauthorized, invalid token
+120323	03:01:45	92898845-6dfe-46dc-ba1a-045218e17d05	Error, undefined, Unauthorized, invalid token
+120323	03:01:55	e3e6b04b-3346-4592-b9c6-135b4268c9a0	Error, undefined, Unauthorized, invalid token
+120323	03:02:26	3fc3593c-0d0f-425b-b7fc-4bedf60d2aab	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+120323	03:09:20	1b0117df-16c6-4c03-9917-eb2f120ffb33	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+120323	03:09:39	ff99a574-c268-4ec3-af5d-a2ff272584de	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+120323	03:09:57	fa25bd3a-9371-4d32-b064-f2370797e3ec	CastError, undefined, Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "User"
+120323	06:40:07	98b4a375-2a8e-449a-b561-d7936bb62a8d	Error, undefined, Invalid credentials
+120323	06:46:34	4b02b307-1ffe-4c8a-8233-98936a60e865	Error, undefined, Invalid credentials
+120323	06:46:36	5554acfb-10df-4231-922e-2255da323d1c	Error, undefined, Invalid credentials
+120323	06:53:22	a1f52cd8-0952-4046-8daa-c1e63473cca2	Error, undefined, Invalid credentials
+120323	07:05:50	f97780a2-cee0-47d1-a189-1dc21d631a1b	Error, undefined, Invalid credentials
+120323	07:26:11	05b8b754-cc35-4bf3-b0d9-56215761ace3	Error, undefined, Boolean(...) is not a function
+120323	07:26:12	eddc8878-b68a-415d-a1e7-263843a975cc	Error, undefined, Boolean(...) is not a function
+120323	07:26:12	7d2c6425-888b-4108-a537-ba2883d34f25	Error, undefined, Boolean(...) is not a function
+120323	07:29:23	b2a34dee-5232-4ff6-8448-7c0d409e38f7	Error, undefined, Friend not found, addRemoveFriend
+120323	07:29:38	0004f84f-ece5-4677-bf0e-266f63abe32b	Error, undefined, Friend not found, addRemoveFriend
+120323	07:30:46	dc817473-e7a2-4f35-b565-d09b76e8a6d0	Error, undefined, Friend not found, addRemoveFriend
+120323	07:31:15	a9e6e99b-53e3-4e01-b426-961d525158ec	Error, undefined, Friend not found, addRemoveFriend
+120323	07:31:33	49a96ad6-63b7-420a-9f1b-9fce7800ae89	Error, undefined, Friend not found, addRemoveFriend
+120323	07:31:38	96c82e74-4db5-4621-a0e6-7a135474ff04	Error, undefined, Friend not found, addRemoveFriend
+120323	07:31:56	8669c295-f365-4c12-b609-3bec1f3a79a3	Error, undefined, Invalid credentials
+120323	07:32:14	2fee7a51-3f56-4efa-9d5c-5cbb264a25c2	Error, undefined, Friend not found, addRemoveFriend
+120323	07:32:23	61345c49-768d-4cec-84f8-1545f53192ae	Error, undefined, Friend not found, addRemoveFriend
+120323	07:32:26	43ea08f2-9de2-4043-894b-99c2cee8b959	Error, undefined, Friend not found, addRemoveFriend
+120323	07:32:31	7ea5d3b4-b815-488e-a47a-e7c6e684eb5d	Error, undefined, Friend not found, addRemoveFriend
+120323	07:58:24	76dc6171-c931-48cb-ad84-766880ea8a16	Error, undefined, findUser.save is not a function
+120323	07:58:31	9fd02b33-80d1-43d1-846a-b9fa03b9d3a4	Error, undefined, findUser.save is not a function
+120323	08:00:20	84066301-5301-4ca7-8c3b-55c542ecf371	Error, undefined, findUser.save is not a function
+120323	08:01:08	f2bde2e2-8547-463d-9d77-e2e7d17611ae	Error, undefined, findUser.save is not a function
+120323	08:01:37	e5dbea1d-391c-413e-8612-42e8b86e3464	Error, undefined, findUser.save is not a function
+120323	08:11:14	4c579d50-f73a-4287-99b5-0b65165079e8	Error, undefined, findUser.friends.includes is not a function
+120323	08:12:00	337a4ea2-c794-49c9-86a5-b2aff3762a4f	Error, undefined, Cannot read properties of undefined (reading 'includes')
+120323	08:12:22	27b71bcd-50dd-46a7-92b2-4854063680ce	Error, undefined, Cannot read properties of undefined (reading 'includes')
+120323	08:12:39	f67dd65a-0a1b-475a-a04b-c7ca849f5004	Error, undefined, Cannot read properties of undefined (reading 'includes')
+120323	08:12:59	11d12446-9088-417b-b683-b04b9bbb5f80	Error, undefined, Cannot read properties of undefined (reading 'push')
+120323	08:14:06	f6ed8ba1-dc27-4370-a706-15412866d79a	Error, undefined, Cannot read properties of undefined (reading 'push')
+120323	08:15:03	84601a72-81f0-42a1-a176-a47bfb538506	Error, undefined, User validation failed: friends: Cast to ObjectId failed for value "[]" (type Array) at path "friends" because of "BSONTypeError"
+120323	08:18:29	9b90572a-ab14-48a8-bc5c-a9ba5273e5c2	Error, undefined, User validation failed: friends: Cast to ObjectId failed for value "[]" (type Array) at path "friends" because of "BSONTypeError"
+120323	08:18:54	175f6933-265a-4276-aa4d-9576c9adfff8	Error, undefined, User validation failed: friends: Cast to string failed for value "[]" (type Array) at path "friends"
+120323	08:19:45	5ddaf41c-ee49-4c12-9fa2-9c9fcbaf3676	Error, undefined, User validation failed: friends: Cast to string failed for value "[]" (type Array) at path "friends"
+120323	08:20:22	81ea30db-e7b4-476d-81fa-da1b7fb7f754	Error, undefined, User validation failed: friends: Cast to string failed for value "[]" (type Array) at path "friends"
+120323	08:23:06	98429b8e-1aab-4b86-a84e-3000b95fb48e	Error, undefined, User validation failed: friends: Cast to string failed for value "[]" (type Array) at path "friends"
+120323	08:23:15	72630714-82a8-4df6-9edb-27c93fdec4ea	Error, undefined, User validation failed: friends: Cast to string failed for value "[]" (type Array) at path "friends"
+120323	08:31:00	0da21c77-a046-42aa-ac81-6db2b91df983	Error, undefined, Friend not found, addRemoveFriend
+120323	08:31:48	e4e7e3d3-c508-49a0-86af-2b1f8d3e4b53	Error, undefined, User validation failed: friends: Cast to string failed for value "[]" (type Array) at path "friends"
+130323	12:05:17	27866a68-3976-4818-bdf1-b33ce7317857	Error, ERR_HTTP_HEADERS_SENT, Cannot set headers after they are sent to the client
+130323	01:10:39	fe51992e-9b96-4973-bd50-6f977d7b306b	Error, ERR_HTTP_HEADERS_SENT, Cannot set headers after they are sent to the client
+190323	10:36:52	c4ae105a-9b8f-4f78-99b3-187f5c97e3e3	CastError, undefined, Cast to ObjectId failed for value "u" (type string) at path "_id" for model "User"
