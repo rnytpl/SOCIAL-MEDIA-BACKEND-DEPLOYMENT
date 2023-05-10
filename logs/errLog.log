@@ -440,3 +440,10 @@
 200323	10:14:21	d04ff07a-2b9d-479e-aaf7-0b2048b3059a	CastError, undefined, Cast to ObjectId failed for value "createPost" (type string) at path "_id" for model "Post"
 200323	10:24:02	77223eec-2a7b-4a4e-b408-90c59b98dc02	Error, undefined, Missing information
 200323	10:25:59	e226e819-0cff-4aed-98d7-e347e0685905	Error, undefined, Missing information
+210323	10:56:25	b5038bb9-15c9-4cb7-901d-89ae6c21e043	Error, undefined, Duplicate User
+100523	11:33:48	2192ae6d-95ae-47e3-9114-74c091fbaffc	ReferenceError, undefined, userId is not defined
+100523	11:40:16	b685218e-24f5-4fcb-adc2-64c63d957a9c	CastError, undefined, Cast to ObjectId failed for value "{ id: '645bc9609edde800d56d8938' }" (type Object) at path "_id" for model "Comment"
+100523	11:40:36	d45029c9-0461-4806-ae6d-17b7e4427886	CastError, undefined, Cast to ObjectId failed for value "{ id: '645bc9609edde800d56d8938' }" (type Object) at path "_id" for model "Comment"
+100523	11:40:41	5093015e-2b13-4f16-84cd-a671edf19f8f	ValidationError, undefined, Comment validation failed: comment: Path `comment` is required.
+100523	11:40:43	63f09bdf-5457-4100-aee0-7aa0e091b3a4	CastError, undefined, Cast to ObjectId failed for value "{ id: '645bc9609edde800d56d8938' }" (type Object) at path "_id" for model "Comment"
+100523	11:40:52	415017be-b7f1-476e-b4c9-8f7de6edd87c	CastError, undefined, Cast to ObjectId failed for value "{ id: '645bc9609edde800d56d8938' }" (type Object) at path "_id" for model "Comment"

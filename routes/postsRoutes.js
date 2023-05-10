@@ -3,8 +3,8 @@ import {
   getFeedPosts,
   getUserPosts,
   likePost,
-  createPost,
   newComment,
+  editComment,
 } from "../controllers/postsControllers.js";
 import { verifyToken } from "../middleware/verifyToken.js";
 
@@ -14,6 +14,8 @@ const router = express.Router();
 router.route("/").get(getFeedPosts);
 
 router.post("/:postId", verifyToken, newComment);
+
+router.put("/:postId", verifyToken, editComment);
 
 router.get("/:userId/posts", verifyToken, getUserPosts);
 

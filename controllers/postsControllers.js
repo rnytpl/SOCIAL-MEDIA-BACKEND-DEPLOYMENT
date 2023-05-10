@@ -73,6 +73,18 @@ export const newComment = asyncHandler(async (req, res) => {
   res.status(200).json(newComment);
 });
 
+export const editComment = asyncHandler(async (req, res) => {
+  const { commentId, editComment } = req.body;
+
+  const findComment = await Comment.findByIdAndUpdate(
+    { _id: commentId.toString() },
+    { comment: editComment },
+    { new: true }
+  );
+
+  res.status(200).json(findComment);
+});
+
 export const getFeedPosts = asyncHandler(async (req, res) => {
   try {
     const post = await Post.find().populate("comments").lean().exec();
