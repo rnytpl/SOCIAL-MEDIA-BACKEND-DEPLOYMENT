@@ -5898,3 +5898,9 @@
 110523	05:54:39	7ec3dc1c-5392-4405-8ae7-7e1c83ad1b7a	GET, , /posts, /posts
 110523	05:54:55	1ccedd6f-d40a-4362-b0f0-7bb7b1712fe2	GET, , /posts, /posts
 110523	05:55:11	63f96610-4245-4307-a24e-bf8ca7985f47	GET, , /posts, /posts
+110523	06:45:58	9c3e1250-acd6-43f6-b20d-50344b238cf6	GET, , /, /
+110523	06:45:58	0fa9691b-d93f-43d5-9e94-07115748d486	GET, , /style.css, /style.css
+110523	06:45:58	262bfcfe-224b-406b-a81d-425e862b7a43	GET, , /favicon.ico, /favicon.ico
+110523	06:46:07	6ed63939-8aa0-4f2f-9949-5ccba363fc9c	GET, , /posts, /posts
+110523	06:46:11	baf066ab-de0a-47b5-873f-bf67f31eab64	POST, , /auth/login, /auth/login
+110523	06:46:12	a06bc98f-6a45-47f9-b94e-246357964c3b	GET, , /posts, /posts
