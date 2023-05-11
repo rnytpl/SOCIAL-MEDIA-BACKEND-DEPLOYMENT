@@ -3,6 +3,15 @@ import { Post } from "../models/Post.js";
 import { User } from "../models/User.js";
 import asyncHandler from "express-async-handler";
 
+export const getFeedPosts = asyncHandler(async (req, res) => {
+  try {
+    const post = await Post.find().limit(10).lean().exec();
+    res.status(200).json(post);
+  } catch (err) {
+    res.status(404).json({ message: err.message });
+  }
+});
+
 export const createPost = asyncHandler(async (req, res) => {
   const { userId, description, picturePath } = req.body;
 
@@ -83,15 +92,6 @@ export const editComment = asyncHandler(async (req, res) => {
   );
 
   res.status(200).json(findComment);
-});
-
-export const getFeedPosts = asyncHandler(async (req, res) => {
-  try {
-    const post = await Post.find().populate("comments").lean().exec();
-    res.status(200).json(post);
-  } catch (err) {
-    res.status(404).json({ message: err.message });
-  }
 });
 
 export const getUserPosts = asyncHandler(async (req, res) => {
