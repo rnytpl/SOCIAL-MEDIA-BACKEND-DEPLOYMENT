@@ -61,6 +61,7 @@ export const register = asyncHandler(async (req, res) => {
 
 //// LOGIN
 export const login = asyncHandler(async (req, res) => {
+  console.log("login");
   const { email, password } = req.body;
   if (!email || !password) {
     res
