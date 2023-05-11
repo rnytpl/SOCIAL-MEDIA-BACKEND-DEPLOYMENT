@@ -5,7 +5,7 @@ import asyncHandler from "express-async-handler";
 
 export const getFeedPosts = asyncHandler(async (req, res) => {
   try {
-    const post = await Post.find().limit(10).lean().exec();
+    const post = await Post.find().populate().limit(10).lean().exec();
     res.status(200).json(post);
   } catch (err) {
     res.status(404).json({ message: err.message });
